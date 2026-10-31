@@ -107,3 +107,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# PFN: official card text stays local (repo is public)
+/[Aa]ssets/_Project/Data/cards.csv
+/[Aa]ssets/_Project/Data/cards.csv.meta
